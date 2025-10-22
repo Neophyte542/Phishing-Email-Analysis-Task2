@@ -1,0 +1,24 @@
+Return-Path: <no-reply@amaz0n-alerts.com>
+Received: from unknown (HELO mx.fake-node.ru) (185.63.142.10)
+  by mail.yourdomain.com with ESMTP; Tue, 22 Oct 2025 09:15:42 +0530
+Received-SPF: Fail (mail.yourdomain.com: domain of amaz0n-alerts.com does not designate 185.63.142.10 as permitted sender)
+Authentication-Results: mail.yourdomain.com;
+  spf=fail smtp.mailfrom=no-reply@amaz0n-alerts.com;
+  dkim=none;
+  dmarc=fail action=quarantine header.from=amaz0n-alerts.com
+Message-ID: <CA+X3k9s1@mail.fake-node.ru>
+From: "Amazon" <no-reply@amaz0n-alerts.com>
+To: <user@yourdomain.com>
+Subject: Action Required: Problem with your recent order
+Date: Tue, 22 Oct 2025 09:15:35 +0530
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+Received: from desktop-22.local ([192.168.1.45]) by mx.fake-node.ru with ESMTP; Tue, 22 Oct 2025 09:14:20 +0530
+X-Mailer: PHPMailer 6.5
+Reply-To: <orders@amaz0n-support.com>
+X-Originating-IP: [185.63.142.10]
+X-Spam-Flag: YES
+X-Spam-Score: 8.6
+X-Alert: suspicious-link-detected
+List-Unsubscribe: <mailto:unsubscribe@amaz0n-alerts.com>
