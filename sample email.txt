@@ -1,0 +1,17 @@
+From: Microsoft Account Team <security@microsofft-notify.example>
+Subject: Microsoft Account Suspended - Verify Now
+
+Dear user,
+
+We noticed a sign-in attempt from an unknown device. 
+
+For your protection, your Microsoft account has been temporarily suspended. Verify your account to re-enable access.
+
+Verify now:
+Displayed link: https://account.microsoft.com/security
+Actual link:    https://verify-microsoft-account.example/restore
+
+If this wasn’t you, please review your recent activity immediately.
+
+Best,
+Microsoft Account Team
