@@ -1,0 +1,11 @@
+### 🖼️ Screenshot 1 – Email Body
+![Email Body](screenshots/screenshot_email_body.png)
+
+### 🖼️ Screenshot 2 – Header Analysis
+![Header Analysis](screenshots/screenshot_header_analysis.png)
+
+### 🖼️ Screenshot 3 – URL Hover
+![URL Hover](screenshots/screenshot_url_hover.png)
+
+### 📄 PDF Version
+[📘 Download Screenshot Compilation (PDF)](screenshots/Phishing_Screenshots_Compilation.pdf)
